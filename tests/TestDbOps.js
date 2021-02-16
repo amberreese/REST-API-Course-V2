@@ -2,8 +2,8 @@
  * Simple tests for all DB operations
  * 
  * Adds the test data to the Database = vacation Collection = vacations
- * Updated 1/1/2020
  */
+
 
 
 // Setup the DB_URI

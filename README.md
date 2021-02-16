@@ -2,9 +2,6 @@
 # http://www.acloudfan.com/learn-REST-API
 # Demonstrates the setting up of URI for the REST API
 
-# UDEMY Discount Link
-https://www.udemy.com/course/rest-api/?referralCode=ADE763DAA790A3F0D211
-
 
 Change Log
 ==========
@@ -49,3 +46,4 @@ Helpful Links
 =============
 https://github.com/felixge/node-style-guide
 https://blog.risingstack.com/node-js-best-practices/
+
